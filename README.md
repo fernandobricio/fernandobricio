@@ -28,7 +28,7 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
- <br>
+ <br><br>
 
  Atualmente, sou um desenvolvedor júnior, focado em desenvolvimento web.
 
